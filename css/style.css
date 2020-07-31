@@ -154,12 +154,10 @@
   display: flex;
   padding-top: 100px;
   padding-bottom: 56px;
-  align-items: center;
   justify-content: center;
 }
 .btn-list {
   margin-right: 8px;
-  align-items: center;
 }
 .portfolio-btn {
   display: inline-block;
